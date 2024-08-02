@@ -5,4 +5,12 @@ LINK : https://65feaba63ad3b6e2752b93df--magical-alfajores-134d8b.netlify.app/
 
 
 
+
+![Screenshot 2024-08-02 160157](https://github.com/user-attachments/assets/9a7d667a-8d0b-4adc-9a66-3be75c49a7db)
+
+
+
+
+
+
 ![Screenshot 2024-08-02 160334](https://github.com/user-attachments/assets/02ab5d89-00f5-48e9-bdff-0cc29213c2f2)
