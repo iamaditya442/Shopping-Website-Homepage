@@ -1,19 +1,24 @@
 # Shopping-Website-Homepage
+
 This project contains Homepage of Shopping Website. Skills invoved for designing are HTML, CSS AND JAVASCRIPT.
 
-Frontend Development: Utilizes HTML for structure, CSS for styling, and JavaScript for interactive elements.
+
+ 
+**Frontend Development  :**   Utilizes HTML for structure, CSS for styling, and JavaScript for interactive elements.
 
 
-Product Display: Shows a catalog of items with images, descriptions, and prices.
+**Product Display       :**    Shows a catalog of items with images, descriptions, and prices.
 
 
-Cart Functionality: Enables adding and removing items from a shopping cart.
+**Cart Functionality    :**    Enables adding and removing items from a shopping cart.
 
 
-Checkout Process: Includes forms for user information and payment details.
+**Checkout Process      :**    Includes forms for user information and payment details.
 
 
-Responsive Design: Ensures compatibility across various devices and screen sizes.
+**Responsive Design     :**   Ensures compatibility across various devices and screen sizes.
+
+
 
 
 
